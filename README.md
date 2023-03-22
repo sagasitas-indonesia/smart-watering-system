@@ -26,6 +26,10 @@ Preference : https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/
 3. When you find the ESP32, then click Install
 4. Wait for a minute
 
+## Reference to test Relay and Soil Moisture
+Soil Moisture Testing : https://esp32io.com/tutorials/esp32-soil-moisture-sensor
+Relay Testing : https://esp32io.com/tutorials/esp32-relay
+
 ## Wiring a component
 1. NodeMCU ESP 32 - Soil Moisture :
   A. Vin - VCC
