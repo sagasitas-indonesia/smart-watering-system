@@ -26,6 +26,21 @@ Preference : https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/
 3. When you find the ESP32, then click Install
 4. Wait for a minute
 
+## Wiring a component
+1. NodeMCU ESP 32 - Soil Moisture :
+  A. Vin - VCC
+  B. GND -GND
+  C. D34 - A0
+
+2. NodeMCU ESP 32 - Relay
+  A. Vin - VCC
+  B. GND - GND
+  C. D14 - IN
+
+3. Vin NodeMCU ESP 32 - terminal 1 relay
+4. Red Cable Water Pump - terminal 2 Relay
+5. Black Cable water Pump - GND NodeMCU ESP 32
+
 Note : When you upload the code, don't forget to press Boot button in ESP32
 
 
