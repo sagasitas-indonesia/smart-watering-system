@@ -5,9 +5,9 @@
 
 //Initiate For Blynk View
 //Ypu can get therefrom you're 
-#define BLYNK_TEMPLATE_ID           "TMPLn-jQSvce"
+#define BLYNK_TEMPLATE_ID           "TMPxxxx-xxxxxx"
 #define BLYNK_DEVICE_NAME           "Auto Watering System"
-#define BLYNK_AUTH_TOKEN            "X1Qx3KVjE4Y3d2ggFk8rfmvElvejLluN"
+#define BLYNK_AUTH_TOKEN            "YOUR BLYNK AUTH TOKEN"
 
 
 #define BLYNK_PRINT Serial
