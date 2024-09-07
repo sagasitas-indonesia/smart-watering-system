@@ -1,4 +1,4 @@
-# IoT for Student Exchange
+# Smart Watering System
 In this code contains a code to program the NodeMCU ESP32 microcontroller. In this program code, it is used to create a system to monitor soil moisture and make a switch to turn off or turn on a water pump, besides using a switch the water pump will run automatically according to the detection from the soil moisture sensor. When the soil moisture sensor reads dry soil, the water pump will automatically turn on, when the soil is wet, the sensor will send data and process it to turn off the water pump. Apart from using an automated system, here we also use manual switches via the Blynk application
 
 
